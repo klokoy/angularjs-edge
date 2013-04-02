@@ -1,0 +1,15 @@
+{
+    "posts": [
+        {
+            "title": "Angular Rocks",
+            "body": "Angular runs the geological rock page.",
+            "date": "1364558821",
+            "author": "Lui"
+        },
+        {
+            "title": "Angular Rocks",
+            "body": "Angular runs the geological rock page.",
+            "date": "1364558821181",
+            "author": "Max"
+        }
+    ]}
